@@ -40,3 +40,7 @@ cd frontend
 npm install
 npm run dev
 
+
+![mathAi1](https://github.com/user-attachments/assets/0122825a-41bb-4632-b18e-75adadfc1e2d)
+![mathAi2](https://github.com/user-attachments/assets/830ea495-5f6a-4b0d-b9ee-6589b58a546e)
+![mathAi3](https://github.com/user-attachments/assets/f14f3e41-a74c-447f-8e4f-1d7c5a48ea11)
